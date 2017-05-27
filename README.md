@@ -1,16 +1,14 @@
 # Quadratic Equations Solver
 
-[TODO. There will be project description]
+This repo provide functionality for solving quadratic equations.
 
 # How to Use
 
-[TODO]
+You will need python 3.5, use import construction.
 
 # How to Launch Tests
 
-```bash
 python tests.py
-```
 
 # Project Goals
 
