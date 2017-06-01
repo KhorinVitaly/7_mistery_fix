@@ -4,7 +4,7 @@ This repo provide functionality for solving quadratic equations.
 
 # How to Use
 
-You will need python 3.5. Use get_roots function from quadratic_equation.py. This function receives equation members as parameters and returns equation roots. 
+You will need python 3.5. Use _get_roots_ function from _quadratic_equation.py_. This function receives equation members as parameters and returns equation roots. 
 
 ## Examples
 
